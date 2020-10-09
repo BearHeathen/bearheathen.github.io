@@ -23,6 +23,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 repository: bearheathen/bearheathen.github.io
