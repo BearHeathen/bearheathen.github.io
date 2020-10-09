@@ -1,2 +1,0 @@
-/home/bearheathen/Development/web-dev/bearheathen.github.io/root/.gitignore
-/home/bearheathen/Development/web-dev/bearheathen.github.io/root/.jekyll-cache
